@@ -10,6 +10,7 @@ I have a particular interest in software engineering and video game design and d
 C - my primary language of choice, very confident
 
 Java - comfortable with a good understanding
+
 Python - familiar
 
 ## Contact 📞
