@@ -7,11 +7,11 @@ Here, I plan on uploading my personal passion projects and potentially collabora
 I have a particular interest in software engineering and video game design and devlopment. I'm always looking to improve and for new projects to work on, even if I sometimes find they may be a little too ambitious.
 
 ## Language Experience 🛠
-C - my primary language of choice, very confident
+C- my primary language of choice, very confident
 
-Java - comfortable with a good understanding
+Java- comfortable with a good understanding
 
-Python - familiar
+Python- familiar
 
 ## Contact 📞
 You can reach me at alecbakr@gmail.com
