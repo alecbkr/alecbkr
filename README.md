@@ -2,7 +2,7 @@
 
 ## About Me 👁️
 I'm a beginner software developer currently studying computer science at UCF.
-Here, I plan on uploading my personal passion projects and potentially collaborative efforts from my peers and I at UCF.
+Here, I plan on uploading my personal passion projects as well as collaborative efforts from my peers and I at UCF.
 
 I have a particular interest in software engineering and video game design and devlopment. I'm always looking to improve and for new projects to work on, even if I sometimes find they may be a little too ambitious.
 
