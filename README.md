@@ -9,9 +9,9 @@ I have a particular interest in software engineering and video game design + dev
 ## 🛠 Language Experience 
 - **C** - my primary language, very confident
 
-- **Java** - comfortable with a good understanding
+- **Java** - comfortable, with good understanding
 
-- **Python** - familiar
+- **Python** - familiar, surface level knowledge
 
 ## 📞 Contact
 You can reach me at alecbakr@gmail.com
