@@ -14,4 +14,5 @@ I have a particular interest in software engineering and video game design + dev
 - **Python**
 
 ## 📞 Contact
-You can reach me at alecbkr.dev@gmail.com
+Send me a message at https://alecbkr.github.io/#contact
+or reach me directly at alecbkr.dev@gmail.com
