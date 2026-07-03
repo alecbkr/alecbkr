@@ -4,7 +4,7 @@
 UCF graduate and Bachelor of Computer Science
 See my projects at https://alecbkr.github.io/#projects
 
-I have a particular interest in software engineering and video game design + development.
+I have a particular interest in software engineering and video game development & design.
 
 
 ## 📨 Contact
