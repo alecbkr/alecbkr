@@ -2,6 +2,7 @@
 
 ## 👁️ About Me 
 UCF graduate and Bachelor of Computer Science
+
 See my projects at https://alecbkr.github.io/#projects
 
 I have particular interests in software engineering and video game development & design.
